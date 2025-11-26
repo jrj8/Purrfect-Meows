@@ -1,0 +1,40 @@
+/*DEVELOPER: Jejny John, IS117-007, Fall, 2025 */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.navbar-brand {
+    width: 100px;
+    height: 100px;
+}
+
+p.navbar-brand {
+    padding-top:45px;
+    font-size:1.1rem;
+}
+
+.nav-item {
+    border-right:1px solid grey ;
+}
+
+body {
+    background-color: lightblue;
+}
+
+
+
+.card{
+    padding: 2px 2px;
+    background-color: #CEFAFE;
+}
+
+
+
