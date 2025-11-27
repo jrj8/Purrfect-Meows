@@ -8,3 +8,6 @@
 # https://www.papayapet.com/resources/spaying-vs-neutering-whats-the-difference/ 
 # https://www.dailypaws.com/cats-kittens/health-care/cat-preventative-care/cat-annual-vet-visit
 # https://www.petmd.com/cat/general-health/cat-vaccinations-what-vaccines-do-cats-need 
+# https://www.petfinder.com/cats-and-kittens/adoption/new-cat/tips-for-the-first-30-days-cat/
+# https://www.purina.com/articles/cat/getting-a-cat/should-i-get-a-cat?utm_campaign=cpr-Google_Search_ArticleNB_BM_Cat+Benefits&utm_medium=cpc&utm_source=google&utm_content=&gad_source=1&gad_campaignid=22026861523&gbraid=0AAAAAC5rkF1RAN5yDmg0dQEQp5uFBUpJk&gclid=CjwKCAiA55rJBhByEiwAFkY1QOsVN7horGwg7UgW9sZdYay4O7cUrDnijSOJuLbuvcbAjWzlshQzEhoCAxYQAvD_BwE&gclsrc=aw.ds
+# https://bestfriends.org/pet-care-resources/new-cat-checklist-welcome-your-new-feline-friend-home
