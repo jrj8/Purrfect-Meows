@@ -36,5 +36,11 @@ body {
     background-color: #CEFAFE;
 }
 
+.decor {
+    border-style: ridge;
+    border-color: darkblue;
+}
+
+
 
 
